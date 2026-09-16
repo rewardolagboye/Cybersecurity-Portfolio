@@ -14,16 +14,16 @@ I completed the Google Cybersecurity Certificate in 2026 and passed CompTIA Secu
 
 | Project | Focus |
 |---|---|
-| [NIST CSF Risk Assessment](./nist-csf-risk-assessment) | Risk register and assessment for a fictional financial services firm, mapped to the NIST Cybersecurity Framework |
-| [Password and Authentication Policy Review](./password-authentication-policy-review) | Policy review benchmarked against NIST SP 800 63B and ISO 27001 |
-| [DPIA: NCSC Cyber Assessment Framework](./dpia-ncsc-caf) | Data Protection Impact Assessment mapped to the NCSC Cyber Assessment Framework |
-| [DPIA: Healthcare and Cybersecurity](./dpia-healthcare-cybersecurity) | Data Protection Impact Assessment bridging healthcare compliance and cybersecurity |
-| [Wren House Care Group Case Study](./wren-house-grc-case-study) | GRC case study for a fictional supported living organisation |
-| [PCI DSS v4.0.1 SAQ A Gap Analysis](./pci-dss-saq-a-gap-analysis) | Gap analysis for a fictional small online retail merchant |
-| [Compliance Reporting Dashboard](./power-bi-compliance-dashboard) | Power BI dashboard rebuilding an existing Excel based compliance workbook |
-| [Interview Presentation Deck](./interview-presentation-deck) | Presentation deck built for interview use |
+| [NIST CSF Risk Assessment](./nist-csf-risk-assessment) | Eighteen risks scored across the five NIST CSF functions for a fictional financial services firm, with a phased remediation roadmap |
+| [Password and Authentication Policy Review](./password-authentication-policy-review) | Ten gap RAG rated review against NIST SP 800 63B, CIS Controls v8, and ISO/IEC 27001:2022 |
+| [DPIA: NCSC Cyber Assessment Framework](./dpia-ncsc-caf) | A composite Data Protection Impact Assessment mapped to the NCSC Cyber Assessment Framework via DSPT Category 1 |
+| [PCI DSS v4.0.1 SAQ A Gap Analysis](./pci-dss-saq-a-gap-analysis) | A 22 control gap analysis for a fictional small online retail merchant using a hosted Stripe checkout |
+| [DPIA: Healthcare and Cybersecurity](./dpia-healthcare-cybersecurity) | Data Protection Impact Assessment bridging healthcare compliance and cybersecurity, still being finished |
+| [Wren House Care Group Case Study](./wren-house-grc-case-study) | GRC case study for a fictional supported living organisation, still being finished |
+| [Compliance Reporting Dashboard](./power-bi-compliance-dashboard) | Power BI dashboard rebuilding an existing Excel based compliance workbook, in progress |
+| [Interview Presentation Deck](./interview-presentation-deck) | Presentation deck built for interview use, still being finished |
 
-Several of these are still being finished. Each folder below has a short outline now, with the full write up and supporting files to follow.
+The first four projects above are complete. The remaining four have an outline in place, with the full write up to follow.
 
 ## Contact
 
