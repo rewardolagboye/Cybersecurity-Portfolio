@@ -1,8 +1,8 @@
-# GRC and Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
 Reward Abimbola Oladejo-Olagboye
 
-A portfolio of case studies, risk assessments, and policy reviews built while transitioning from healthcare and regulatory compliance into cybersecurity governance, risk, and compliance (GRC).
+A portfolio of case studies, risk assessments, and policy reviews built while transitioning from healthcare and regulatory compliance into cybersecurity.
 
 ## About Me
 
