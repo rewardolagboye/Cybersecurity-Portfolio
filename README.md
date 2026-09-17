@@ -6,7 +6,7 @@ A portfolio of case studies, risk assessments, and policy reviews built while tr
 
 ## About Me
 
-Compliance Officer at Comfort Lodge Services (UK) Ltd, where I manage compliance frameworks, risk documentation, staff governance, and operational systems across five residential care sites in London. My background spans microbiology, public health, and regulatory affairs, including over 50 audits under international regulatory frameworks and a large scale student records compliance project in Nigeria.
+Compliance Officer at Comfort Lodge Services (UK) Ltd, where I manage compliance frameworks, risk documentation, staff governance, and operational systems across five residential care sites in London. My background spans microbiology, public health, and regulatory affairs, including over 50 audits under international regulatory frameworks and a large scale student records compliance project.
 
 I completed the Google Cybersecurity Certificate in 2026 and passed CompTIA Security+ (SY0 701), and I am now working toward SAL1 as the next step.
 
